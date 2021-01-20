@@ -1,0 +1,111 @@
+img {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.song1 {
+    font-family: 'Englebert', sans-serif;
+}
+
+.song2 {
+    font-family: 'Redressed', cursive;
+}
+
+.fontsize {
+    font-size: 32px;
+}
+
+.biography {
+    font-family: 'Kalam', cursive;
+}
+
+ul {
+    font-family: 'Handlee', cursive;
+}
+
+body {
+    background-color: #c5a4e7;
+}
+
+.taylorswift {
+    text-align: center;
+    background-color: #a4e7c5;
+    height: 50px;
+    width: 500px;
+    margin: 10px 200px 10px 400px;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+.socialmedia {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.instagram {
+    background-color: #ab7cdc;
+    border: white 2px solid;
+    padding: 5px;
+}
+
+.twitter {
+    background-color: #00acee;
+    border: white 2px solid;
+    padding: 5px;
+}
+
+.youtube {
+    background-color: #c4302b;
+    border: white 2px solid;
+    padding: 5px;
+}
+
+.facebook {
+    background-color: #7c7ddc;
+    border: white 2px solid;
+    padding: 5px;
+}
+
+
+.content {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2 {
+    background-color: #c9cdf0;
+    text-align: center;
+}
+
+.aboutme {
+    background-color: #f1f2fb;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border: 5px solid #a9a9a9;
+
+}
+
+.bestsongs {
+    background-color: #f1f2fb;
+    width: 600px;
+    margin: 10px;
+    padding: 10px;
+    border: 5px dashed #a9a9a9;
+    text-align: center;
+}
+
+.awards {
+    background-color: #f1f2fb;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid #a9a9a9;
+}
